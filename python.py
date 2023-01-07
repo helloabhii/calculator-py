@@ -1,3 +1,4 @@
+#simple calculator
 a = 6
 b = 1
  
